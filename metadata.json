@@ -1,0 +1,6 @@
+{
+  "name": "Turismo Seguro Cusco",
+  "description": "Plataforma Turista Digital para gestión de aforo, movilidad autorizada y protección patrimonial en Cusco.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
