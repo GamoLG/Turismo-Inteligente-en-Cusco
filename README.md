@@ -1,5 +1,5 @@
 # Turismo Seguro Cusco (MVP)
-> **Regulación Dinámica de Capacidad de Carga y Desvío Peatonal Patrimonial **
+> **Regulación Dinámica de Capacidad de Carga y Desvío Peatonal Patrimonial**
 
 [![Flutter](https://img.shields.io/badge/Flutter-3.x-02569B?logo=flutter)](https://flutter.dev)
 [![Dart](https://img.shields.io/badge/Dart-3.x-0175C2?logo=dart)](https://dart.dev)
