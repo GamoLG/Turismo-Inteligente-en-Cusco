@@ -79,7 +79,7 @@ lib/
 La aplicación fue diseñada bajo el principio **Offline-First**, resolviendo la intermitencia de red celular en las estrechas calles de piedra:
 
 - **Datos Migrados:** Información patrimonial invariable empaquetada localmente en `assets/data/atractivos_migrados.json` (geolocalización, coordenadas GPS, nombres de tramos, capacidad de aforo admisible y rutas alternas con distancias y tiempos).
-- **Datos Sintéticos:** Un generador estocástico y determinista (`AforoSinteticoService`) que modela curvas de afluencia según la hora del día (horas punta y valle), emulando los sensores de conteo peatonal y cámaras del Centro de Monitoreo C2 de Cusco con **cero consumo de internet y latencia de 0 ms**.
+- **Datos Sintéticos:** Un generador estocástico y determinista (`AforoSinteticoService`) que modela curvas de afluencia según la hora del día (horas punta y valle), emulando los sensores de conteo peatonal y cámaras del Centro de Monitoreo C2 de Cusco con **cero consumo de internet y latencia de 0 ms**
 
 ---
 
